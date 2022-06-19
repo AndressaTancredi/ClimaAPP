@@ -48,6 +48,7 @@ class _LocationScreenState extends State<LocationScreen> {
     return Scaffold(
       backgroundColor: Colors.black12,
       appBar: AppBar(
+        automaticallyImplyLeading: false,
         backgroundColor: Colors.black12,
         elevation: 0.0,
         title: Text(
