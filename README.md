@@ -21,4 +21,7 @@ weather for any city you can think of!
 - How to use the Geolocator package to get live location data for both iOS and Android.
 - How to use the TextField Widget to take user input.
 
+
+![weatherAPP](https://user-images.githubusercontent.com/48730376/174480406-876ceb50-4f8c-4a87-b690-6d09f296b853.gif)
+
 Inspired:  The App Brewery's Flutter Development Bootcamp.
